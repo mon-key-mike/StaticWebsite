@@ -1,18 +1,18 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
+    background-color: #4CAF50; /* Green */
     color: white;
     text-align: center;
     padding: 1em;
 }
 
 nav {
-    background-color: #444;
+    background-color: #2196F3; /* Blue */
     color: white;
     padding: 0.5em;
 }
@@ -37,8 +37,34 @@ section {
     padding: 20px;
 }
 
+/* Use vibrant, relevant, and radiant color palettes for sections */
+section#home {
+    background-color: #FF9800; /* Orange */
+    color: #333;
+}
+
+section#travel {
+    background-color: #03A9F4; /* Light Blue */
+    color: white;
+}
+
+section#computers {
+    background-color: #FF4081; /* Pink */
+    color: white;
+}
+
+section#festivals {
+    background-color: #673AB7; /* Purple */
+    color: white;
+}
+
+section#contact {
+    background-color: #F44336; /* Red */
+    color: white;
+}
+
 footer {
-    background-color: #333;
+    background-color: #4CAF50; /* Green */
     color: white;
     text-align: center;
     padding: 1em;
